@@ -102,7 +102,7 @@ This project was created for learning and practicing fundamental front-end web d
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star!
+ If you find this project useful, consider giving the repository a star!
 =======
 # simple-calculator
 A simple, responsive calculator web application built using HTML, CSS, and JavaScript. Supports basic arithmetic operations with a clean, user-friendly interface.
