@@ -1,28 +1,28 @@
 <<<<<<< HEAD
-# 🧮 Simple Calculator
+#  Simple Calculator
 
-A simple and responsive calculator web application developed using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations and provides a clean, modern, and user-friendly interface.
+A simple and responsive calculator web application developed using HTML, CSS, and JavaScript This project performs basic arithmetic operations and provides a clean, modern, and user-friendly interface.
 
-## 📌 Project Overview
+##  Project Overview
 
-The Simple Calculator is a beginner-friendly web development project designed to demonstrate the fundamentals of HTML, CSS, and JavaScript.
+The Simple Calculator is a beginner-friendly web development project designed to demonstrate the fundamentals of HTML, CSS and JavaScript.
 
 The calculator allows users to perform mathematical calculations directly through a web browser without installing additional software.
 
-## ✨ Features
+##  Features
 
-- ➕ Addition
-- ➖ Subtraction
-- ✖️ Multiplication
-- ➗ Division
-- 🔢 Decimal number calculations
-- 🗑️ Clear (C) button to reset the display
-- ⌫ Delete (DEL) button to remove the last character
-- ⌨️ Keyboard support
-- 📱 Responsive and user-friendly design
-- ⚠️ Basic error handling for invalid calculations
+-  Addition
+-  Subtraction
+-  Multiplication
+-  Division
+-  Decimal number calculations
+-  Clear (C) button to reset the display
+-  Delete (DEL) button to remove the last character
+-  Keyboard support
+-  Responsive and user-friendly design
+-  Basic error handling for invalid calculations
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Technology | Purpose |
 |---|---|
@@ -33,7 +33,7 @@ The calculator allows users to perform mathematical calculations directly throug
 | Git | Version control |
 | GitHub | Source code hosting |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 simple-calculator/
@@ -44,7 +44,7 @@ simple-calculator/
 └── README.md        # Project documentation
 ```
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Download or clone the GitHub repository.
 2. Open the project folder in Visual Studio Code.
@@ -55,7 +55,7 @@ Alternatively, use the **Live Server** extension in VS Code.
 
 No additional libraries or installations are required to run the calculator.
 
-## 🧪 Example Calculations
+##  Example Calculations
 
 | Calculation | Result |
 |---|---|
@@ -75,7 +75,7 @@ No additional libraries or installations are required to run the calculator.
 | Backspace | Delete last character |
 | Escape | Clear display |
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project helped me understand:
 
@@ -86,7 +86,7 @@ This project helped me understand:
 - Using Git for version control.
 - Managing and uploading projects to GitHub.
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Add a light/dark mode toggle.
 - Include calculation history.
@@ -94,9 +94,9 @@ This project helped me understand:
 - Improve mobile responsiveness.
 - Add more keyboard shortcuts.
 
-## 📄 Project Status
+##  Project Status
 
-**Completed — Version 1.0**
+Completed — Version 1.0
 
 This project was created for learning and practicing fundamental front-end web development skills.
 
