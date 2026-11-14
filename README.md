@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧮 Simple Calculator
 
 A simple and responsive calculator web application developed using **HTML, CSS, and JavaScript**. This project performs basic arithmetic operations and provides a clean, modern, and user-friendly interface.
@@ -102,3 +103,7 @@ This project was created for learning and practicing fundamental front-end web d
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+=======
+# simple-calculator
+A simple, responsive calculator web application built using HTML, CSS, and JavaScript. Supports basic arithmetic operations with a clean, user-friendly interface.
+>>>>>>> origin/main
